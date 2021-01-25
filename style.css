@@ -1,0 +1,38 @@
+body{
+    background-color: #7e0d8d;
+}
+
+#main{
+    margin:auto;
+    text-align: center;
+    height: 550px;
+    /* background-color: white; */
+    margin-top: 10px;
+    border-radius: 20px;
+    background: url('bg3.png');
+    background-size: cover;
+    background-position: center;
+}
+
+#info{
+    margin-left: 80px;
+    margin-top: 2px;
+}
+
+.btn{
+    background-color: #6495ed;
+    color: white;
+    border-radius: 10px;
+}
+
+input[type=text]{
+    width: 260px;
+    box-sizing: border-box;
+    border: 2px solid #dc143c;
+    border-radius: 4px;
+}
+
+h2,label{
+    color: #fcfafa;
+    font-size: 1.5em;
+}
